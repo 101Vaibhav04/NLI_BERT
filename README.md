@@ -24,13 +24,9 @@ Natural Language Inferencing (NLI) is a popular NLP problem that involves determ
 
 ### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/kyoos15/NLI_Project.git
-    cd NLI_Project
-    ```
 
-2. Install the required packages:
+
+1. Install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
