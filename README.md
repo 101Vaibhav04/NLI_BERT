@@ -21,7 +21,10 @@ Natural Language Inferencing (NLI) is a popular NLP problem that involves determ
 - Scikit-learn
 - Matplotlib
 - Seaborn
+![Web Page](https://github.com/101Vaibhav04/NLI_BERT/blob/main/Screenshot%202024-07-27%20235733.png)
 
+
+![Web Page](https://github.com/101Vaibhav04/NLI_BERT/blob/main/Screenshot%202024-07-27%20235804.png)
 ### Installation
 
 
